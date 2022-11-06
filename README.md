@@ -12,4 +12,6 @@ This is a fun website meant for amusement purpose which includes 4 games.
 ### 4. Simon Game
    Memory game to remember the old pattern along with the new sequence.
 
+## Technologies used:
+HTML,CSS, JavaScript and JQuery library
 ## View Latest Active GitHub Page 
