@@ -13,5 +13,5 @@ This is a fun website meant for amusement purpose which includes 4 games.
    Memory game to remember the old pattern along with the new sequence.
 
 ## Technologies used:
-HTML,CSS, Bootstrap, JavaScript and JQuery library
+HTML,CSS, Bootstrap 5, JavaScript and JQuery library
 ## View Latest Active GitHub Page 
